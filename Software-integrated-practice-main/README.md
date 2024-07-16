@@ -1,5 +1,4 @@
-# Software-integrated-practice
-软件综合实践项目
+# Collaborative Learning of Sample Selection and Robust Functions for Noisy Labels
 方森伟 and 杨涛
 # Code
 Collaborative Learning of Sample Selection and  Robust Functions for Noisy Labels
